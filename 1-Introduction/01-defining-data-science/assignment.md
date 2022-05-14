@@ -21,8 +21,8 @@ Fill in the following table (substitute suggested problem domains for your own o
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
 | Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Vaccination | |permanent id of the vacinated person |store data as structured form |how many of them vacinated from the total population|
+| Productivity |collect the reason for low productivity|interest, behaviour, challenges|data in tabular form |we can assign interested project than regular |
 
 ## Rubric
 
